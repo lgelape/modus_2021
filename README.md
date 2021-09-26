@@ -46,7 +46,7 @@ Caso alguma aluna precise de atendimento fora do horário de aula para resoluç�
 
 ## Conteúdo das aulas
 
-### Aula 1 (27/09, segunda-feira)
+### [Aula 1 (27/09, segunda-feira)](https://github.com/lgelape/modus_2021/blob/main/Aulas/Aula1/Aula1.md)
 
 **Conhecendo os dados: análise descritiva**:
 
