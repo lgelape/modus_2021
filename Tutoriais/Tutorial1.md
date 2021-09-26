@@ -404,4 +404,4 @@ Além disso, vocês devem ter observado que os nomes dessas variáveis vão cont
 
 ### Orientações Finais
 
-Revise o material para o caso de dúvidas. Se estiver confortável, siga para o [Tutorial 2](), onde vamos calcular algumas variáveis do banco de dados gerado a partir do questionário respondido pelos colegas.
+Revise o material para o caso de dúvidas. Se estiver confortável, siga para o [Tutorial 2](https://github.com/lgelape/modus_2021/blob/master/Tutoriais/Tutorial2.md), onde vamos calcular algumas variáveis do banco de dados gerado a partir do questionário respondido pelos colegas.
