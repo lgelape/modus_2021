@@ -1,10 +1,6 @@
----
-title: "Tutorial 1"
-author: "Lucas Gelape"
-output: html_document
----
+# Tutorial 1 
 
-# Breve introdução ao R
+## Breve introdução ao R
 
 # 1. Introdução à linguagem R
 
