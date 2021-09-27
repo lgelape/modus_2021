@@ -54,7 +54,7 @@ Caso alguma aluna precise de atendimento fora do horário de aula para resoluç�
 * Descrição de variáveis categóricas
 * Descrição de variáveis numéricas/quantitativas
 
-### Aula 2 (28/09, terça-feira)
+### [Aula 2 (28/09, terça-feira)](/Aulas/Aula2/Aula2.md)
 
 **Probabilidade e Inferência Estatística**:
 
