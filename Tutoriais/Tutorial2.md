@@ -292,4 +292,4 @@ barplot(tabela_times,
 
 # Orientações Finais
 
-Revise com cuidado o [Tutorial 1](https://github.com/lgelape/modus_2021/blob/master/Tutoriais/Tutorial1.md) e este tutorial 2. Caso exista alguma dúvida, pergunte! Senão, fique a vontade para encerrrar a aula de hoje ou já começar o [Exercício de Fixação 1]().
+Revise com cuidado o [Tutorial 1](https://github.com/lgelape/modus_2021/blob/master/Tutoriais/Tutorial1.md) e este tutorial 2. Caso exista alguma dúvida, pergunte! Senão, fique a vontade para encerrrar a aula de hoje ou já começar o [Exercício de Fixação 1](https://github.com/lgelape/modus_2021/blob/main/Exercicios/Exercicio1.md).
