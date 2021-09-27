@@ -107,7 +107,6 @@ A principal estatística de momento é a **média**. Para calculá-la, usamos a 
 
 ```r
 mean(banco$minutos_deslocamento)
-mean(banco$minutos_deslocamento)
 ```
 
 ### 1.2.2 Variância e Desvio-Padrão
