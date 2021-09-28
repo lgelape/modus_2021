@@ -64,7 +64,7 @@ Caso alguma aluna precise de atendimento fora do horário de aula para resoluç�
 * Teorema do Limite Central
 * Distribuição Normal
 
-### Aula 3 (29/09, quarta-feira)
+### [Aula 3 (29/09, quarta-feira)](/Aulas/Aula3/Aula3.md)
 
 **Inferência Estatística**:
 
