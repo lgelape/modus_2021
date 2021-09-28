@@ -10,6 +10,6 @@ Probabilidade e Inferência Estatística:
 * Teorema do Limite Central
 * Distribuição Normal
 
-Nesta aula, faremos o [Tutorial 3](Tutoriais/Tutorial3.md), que trata de probabilidade e do teorema do limite central.
+Nesta aula, faremos o [Tutorial 3](https://github.com/lgelape/modus_2021/blob/main/Tutoriais/Tutorial3.md), que trata de probabilidade e do teorema do limite central.
 
-O [exercício de fixação n. 2](Exercicios/Exercicio2.md) também está disponível.
+O [exercício de fixação n. 2](https://github.com/lgelape/modus_2021/blob/main/Exercicios/Exercicio2.md) também está disponível.
