@@ -72,7 +72,7 @@ Caso alguma aluna precise de atendimento fora do horário de aula para resoluç�
 * Intervalo de Confiança
 * Proporções e Médias
 
-### Aula 4 e 5 (30/09 e 01/10, quinta e sexta-feira)
+### [Aula 4 e 5 (30/09 e 01/10, quinta e sexta-feira)](/Aulas/Aulas4_5/Aulas4_5.md)
 
 **Testes de Hipótese**:
 
