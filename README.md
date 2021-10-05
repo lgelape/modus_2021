@@ -36,6 +36,10 @@ Como material de apoio, indico os seguintes livros/cursos/tutoriais sobre o uso 
 
 * Oliveira, Paulo Felipe de; Saulo Guerra e Robert McDonell. **Ciência de dados com R: Introdução**. Brasília: Editora IBPAD, 2018. Disponível em: https://cdr.ibpad.com.br/cdr-intro.pdf
 
+## Atividade final
+
+A [atividade final](Exercicios/Exercicio_Final.md) está disponível.
+
 ## Exercícios de fixação
 
 Teremos um pequeno exercício de fixação a ser realizado todos os dias após a aula (tarefas de casa). As alunas que desejarem *feedback* em suas respostas devem salvá-las numa pasta com seu nome na pasta compartilhada da oficina no Google Drive, em um documento de Word ou R-script, **até as 23h59 de domingo, dia 09/outubro.** Recomendo que não deixem os exercícios acumularem ao longo da semana.
