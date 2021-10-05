@@ -38,7 +38,7 @@ Como material de apoio, indico os seguintes livros/cursos/tutoriais sobre o uso 
 
 ## Atividade final
 
-A [atividade final](Exercicios/Exercicio_Final.md) está disponível.
+A [atividade final](Exercicios/Exercicio_Final.md) está disponível. Ela deve ser enviada por-email, em um arquivo R-Script (.R) ou Word (.docx).
 
 ## Exercícios de fixação
 

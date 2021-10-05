@@ -1,5 +1,7 @@
 # Exercício final
 
+A atividade final deve ser enviada por-email, em um arquivo R-Script (.R) ou Word (.docx).
+
 ## Banco de dados
 
 Vamos trabalhar com um banco de dados que traz informações de personagem da série "Star Wars". Ele vem originalmente no pacote `dplyr`, mas foi levemente modificado para essa atividade. A documentação deste banco de dados pode ser encontrada [neste link](https://dplyr.tidyverse.org/reference/starwars.html), em inglês.
